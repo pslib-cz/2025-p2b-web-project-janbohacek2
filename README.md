@@ -35,4 +35,4 @@
 
 <p><strong>🎨 Grafický návrh (Figma)</strong>: odkaz bude tady</p>
 
-<p><strong>🚀 Živý web (GitHub Pages)</strong>: odkaz bude tady</p>
+<p><strong>🚀 Živý web (GitHub Pages)</strong>: <a>https://pslib-cz.github.io/2025-p2b-web-project-janbohacek2/</a></p>
